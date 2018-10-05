@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">hello</string>
+    <string name="hello_android">Hello Android from fedor</string>
+    <string name="new_text">this text is new</string>
+</resources>
